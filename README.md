@@ -2,6 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 -- Java
+<img align="center" src="https://icons8.com/icon/FRRACRKRsw2s/java" height="100" />
 -- Python
 -- ReactJS
 -- Angular
