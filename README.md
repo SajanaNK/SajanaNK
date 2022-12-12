@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning ...
 -- Java
 <img align="center" src="https://icons8.com/icon/FRRACRKRsw2s/java" height="100" />
+![image](https://user-images.githubusercontent.com/58583373/206964465-0159ab16-1dcd-448b-afb9-90beaebfa983.png)
+
 -- Python
 -- ReactJS
 -- Angular
